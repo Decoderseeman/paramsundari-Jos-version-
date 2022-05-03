@@ -116,8 +116,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("🎬M ovie 🎬", url="https://t.me/mkv_rockers"),
-                InlineKeyboardButton("🎟️Series 🎟️", url="https://t.me/+Qqjm_YjQ09ViZWQ1")
+                InlineKeyboardButton("🎬 Movie 🎬", url="https://t.me/mkv_rockers"),
+                InlineKeyboardButton("🎟️ Series 🎟️", url="https://t.me/+Qqjm_YjQ09ViZWQ1")
             ])
 
     btn.insert(0, [
